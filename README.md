@@ -11,3 +11,4 @@ An AI/ML-powered web app that predicts loan approval chances based on applicant 
 ## Run Locally
 ```bash
 streamlit run app.py
+![Screenshot 2025-06-11 211447](https://github.com/user-attachments/assets/18c1b150-8c32-4cbf-80e1-f0047d013472)
